@@ -1,5 +1,10 @@
 # David Vance
 
+<p align="center">
+  <img src="assets/dev_header.png" alt="Developer Terminal" width="100%" style="border-radius: 10px;">
+</p>
+
+
 Systems & infrastructure engineer based in London, UK.  
 Focusing on Linux runtimes, CI/CD pipeline automation, containerization, and reproducible build systems.
 
