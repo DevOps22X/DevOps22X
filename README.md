@@ -1,16 +1,13 @@
-## Hi there 👋
+# David Vance
 
-<!--
-**DevOps22X/DevOps22X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Systems & Infrastructure Engineer** · London, UK
 
-Here are some ideas to get you started:
+Focusing on Linux runtimes, CI/CD pipeline automation, containerization, and reproducible systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Core Target Systems
+- **CI/CD & Runtimes:** GitHub Actions, Linux containers, process orchestration
+- **Python Infrastructure:** Celery, Kombu, Poetry, Pytest, Litestar
+- **Engineering Standard:** 100% pre-flight test verification, compiler invariant safety, zero-defect pull requests.
+
+---
+*Verified contributor within the Ribbsaeter Systems Global Engineering Directorate.*
